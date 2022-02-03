@@ -9,4 +9,5 @@ public class HelloWorld {
 		/*Comment commit / Coomit Comment222/!*/
 	}
 			//Comment2: local change
+	//Comment 3: Added a class
 }
